@@ -1,1 +1,3 @@
 Stashing file1
+
+modified s1

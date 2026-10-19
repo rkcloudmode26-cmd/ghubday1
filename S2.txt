@@ -1,0 +1,4 @@
+Stashing file2
+modified s1
+
+modified s1
