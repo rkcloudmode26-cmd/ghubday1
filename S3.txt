@@ -1,3 +1,6 @@
 Stashing file3
 
 modified s1
+
+
+ADDED NEW LINE TO S3
